@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1749434270,,"wq"
+|2,0,1749435246,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,26 @@
 # Registers:
 
 # File marks:
-'0  1  11  ~/index.html
-|4,48,1,11,1749434270,"~/index.html"
-'1  1  0  ~/besant/index.html
-|4,49,1,0,1749433949,"~/besant/index.html"
+'0  2  4  ~/index.html
+|4,48,2,4,1749435246,"~/index.html"
+'1  1  11  ~/index.html
+|4,49,1,11,1749434270,"~/index.html"
+'2  1  11  ~/index.html
+|4,50,1,11,1749434270,"~/index.html"
+'3  1  0  ~/besant/index.html
+|4,51,1,0,1749433949,"~/besant/index.html"
 
 # Jumplist (newest first):
+-'  2  4  ~/index.html
+|4,39,2,4,1749435246,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1749435223,"~/index.html"
 -'  1  11  ~/index.html
 |4,39,1,11,1749434270,"~/index.html"
+-'  1  0  ~/besant/index.html
+|4,39,1,0,1749433949,"~/besant/index.html"
+-'  1  0  ~/besant/index.html
+|4,39,1,0,1749433949,"~/besant/index.html"
 -'  1  0  ~/besant/index.html
 |4,39,1,0,1749433949,"~/besant/index.html"
 -'  1  0  ~/besant/index.html
@@ -41,11 +53,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1749434266	0
-	"	1	11
-	^	1	12
-	.	1	11
-	+	1	11
+	*	1749435242	0
+	"	2	4
+	^	2	5
+	.	2	4
+	+	1	12
+	+	2	4
 
 > ~/besant/index.html
 	*	1749433924	0
