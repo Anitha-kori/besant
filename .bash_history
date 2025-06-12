@@ -103,3 +103,15 @@ git commit -m "msg"
 git add .
 git push -u origin master --force
 git pull
+git vi index.html
+vi index.html
+git add .
+git status
+git commit -m "second commit"
+git status
+git log
+gtiitksk
+git log --oneline
+git remote -v
+git push -u origin master
+git pull
